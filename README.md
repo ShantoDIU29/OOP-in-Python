@@ -17,6 +17,7 @@ This repository contains notes, examples, and practice problems related to Objec
 | 2025-08-12 | Operator Overloading      | In progress  | operator Overloading problem solve|
 | 2025-08-12 | Encapsulation    | In progress  | Public & Private variable|
 | 2025-08-12 | Encapsulation(setter&getter)    | In progress  |Setter&Getter method|
+| 2025-08-12 | Encapsulation(Private method)    | In progress  |private method |
 ---
 ---
 
