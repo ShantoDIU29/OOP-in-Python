@@ -12,8 +12,7 @@ class Student:
        print("Invalid ID,enter id again")    
 s1=Student("Shanto",11)
 s2=Student("shimul",24)
-s1.__id=-66     # no update id bcz private
-# print(s1.__id)
+s1.__id=-66    
 print(s1.__dict__)  #{'name': 'Shanto', '_Student__id': 11, '__id': -66}
 s1.update_Id(66)
 s1.details()
