@@ -20,5 +20,6 @@ s2 = Student("shimul", 24)
 s3 = Student("Riyad", 33) 
 # Update ID
 s1.set_id(55)
+s2.set_id(66)
 # Display ID
 print(s1.get_id())
