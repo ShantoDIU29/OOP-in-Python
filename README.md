@@ -18,6 +18,7 @@ This repository contains notes, examples, and practice problems related to Objec
 | 2025-08-12 | Encapsulation    | In progress  | Public & Private variable|
 | 2025-08-12 | Encapsulation(setter&getter)    | In progress  |Setter&Getter method|
 | 2025-08-12 | Encapsulation(Private method)    | In progress  |private method |
+| 2025-08-13 |instance,class or static method    | In progress  |class method |
 ---
 ---
 
