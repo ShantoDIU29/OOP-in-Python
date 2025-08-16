@@ -22,6 +22,7 @@ This repository contains notes, examples, and practice problems related to Objec
 | 2025-08-14 |Inheritance introduction   | In progress  |inheritance theory(type) |
 | 2025-08-15 |single inheritance,supur()    | In progress  |single inheritance |
 | 2025-08-16 |Multiple,Hierirchical,multilevel   | In progress  |Multiple,Hierirchical,multilevel |
+| 2025-08-16 | loading  | In progress  |Multiple,Hierirchical,multilevel |
 ---
 ---
 
