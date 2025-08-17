@@ -27,6 +27,7 @@ This repository contains notes, examples, and practice problems related to Objec
 | 2025-08-17 |  Multiple Inheritance| In progress  | Multiple Inheritance |
 | 2025-08-17 | Inheritance (Variable Overriding)| In progress  | Inheritance->Variable Overriding |
 | 2025-08-17 | Inheritance (Method Overriding)| In progress  | Inheritance->method Overriding |
+| 2025-08-17 |Abstract Class & Method| In progress  | Abstract Class & Method |
 ---
 ---
 
