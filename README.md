@@ -1,4 +1,6 @@
 # OOP in Python
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fe62c3cd-d8e2-4a36-a27c-5d2823085111" />
+
 
 This repository contains notes, examples, and practice problems related to Object-Oriented Programming (OOP) concepts in Python.
 
