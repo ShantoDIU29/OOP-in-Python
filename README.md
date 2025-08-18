@@ -1,4 +1,7 @@
 # OOP in Python
+<img width="1202" height="952" alt="image" src="https://github.com/user-attachments/assets/9f07bb92-3a01-4e92-a6b2-5971bc0e3f1c" />
+
+
 
 This repository contains notes, examples, and practice problems related to Object-Oriented Programming (OOP) concepts in Python.
 
@@ -27,6 +30,7 @@ This repository contains notes, examples, and practice problems related to Objec
 | 2025-08-17 |  Multiple Inheritance| In progress  | Multiple Inheritance |
 | 2025-08-17 | Inheritance (Variable Overriding)| In progress  | Inheritance->Variable Overriding |
 | 2025-08-17 | Inheritance (Method Overriding)| In progress  | Inheritance->method Overriding |
+| 2025-08-17 |Abstract Class & Method| In progress  | Abstract Class & Method |
 ---
 ---
 
